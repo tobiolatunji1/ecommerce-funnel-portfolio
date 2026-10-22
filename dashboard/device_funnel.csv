@@ -1,0 +1,13 @@
+device_category,funnel_step,step_order,users,conversion_from_product_view
+desktop,Product view,1,36323,1.0
+desktop,Add to cart,2,7378,0.20312198882250915
+desktop,Begin checkout,3,3271,0.090053134377667043
+desktop,Purchase,4,1654,0.045535886352999475
+mobile,Product view,1,24810,1.0
+mobile,Add to cart,2,5142,0.20725513905683193
+mobile,Begin checkout,3,2298,0.09262394195888754
+mobile,Purchase,4,1207,0.048649738008867391
+tablet,Product view,1,1443,1.0
+tablet,Add to cart,2,276,0.19126819126819128
+tablet,Begin checkout,3,124,0.085932085932085928
+tablet,Purchase,4,62,0.042966042966042964

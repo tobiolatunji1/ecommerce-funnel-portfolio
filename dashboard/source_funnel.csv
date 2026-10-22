@@ -1,0 +1,45 @@
+source,medium,funnel_step,step_order,users
+(data deleted),(data deleted),Product view,1,1228
+(data deleted),(data deleted),Add to cart,2,301
+(data deleted),(data deleted),Begin checkout,3,153
+(data deleted),(data deleted),Purchase,4,106
+(data deleted),referral,Product view,1,1
+(data deleted),referral,Add to cart,2,0
+(data deleted),referral,Begin checkout,3,0
+(data deleted),referral,Purchase,4,0
+(direct),(none),Product view,1,14491
+(direct),(none),Add to cart,2,3094
+(direct),(none),Begin checkout,3,1390
+(direct),(none),Purchase,4,699
+<Other>,(data deleted),Product view,1,21
+<Other>,(data deleted),Add to cart,2,7
+<Other>,(data deleted),Begin checkout,3,3
+<Other>,(data deleted),Purchase,4,3
+<Other>,<Other>,Product view,1,10262
+<Other>,<Other>,Add to cart,2,2120
+<Other>,<Other>,Begin checkout,3,947
+<Other>,<Other>,Purchase,4,467
+<Other>,organic,Product view,1,1929
+<Other>,organic,Add to cart,2,398
+<Other>,organic,Begin checkout,3,170
+<Other>,organic,Purchase,4,90
+<Other>,referral,Product view,1,5758
+<Other>,referral,Add to cart,2,1186
+<Other>,referral,Begin checkout,3,532
+<Other>,referral,Purchase,4,267
+google,<Other>,Product view,1,0
+google,<Other>,Add to cart,2,0
+google,<Other>,Begin checkout,3,0
+google,<Other>,Purchase,4,0
+google,cpc,Product view,1,3118
+google,cpc,Add to cart,2,597
+google,cpc,Begin checkout,3,263
+google,cpc,Purchase,4,140
+google,organic,Product view,1,20760
+google,organic,Add to cart,2,4091
+google,organic,Begin checkout,3,1839
+google,organic,Purchase,4,942
+shop.googlemerchandisestore.com,referral,Product view,1,3684
+shop.googlemerchandisestore.com,referral,Add to cart,2,745
+shop.googlemerchandisestore.com,referral,Begin checkout,3,359
+shop.googlemerchandisestore.com,referral,Purchase,4,201
